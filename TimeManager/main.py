@@ -9,4 +9,4 @@ def commonTask():
 	newTask()
 
 commonTask()
-timeStatistics()
+#timeStatistics()
