@@ -5,7 +5,7 @@ class Login:
     _method = 'post'
     _headers = [
                 ('host','home.51cto.com'),\
-                ('User-Agent','Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.2) Gecko/20100101 Firefox/10.0.2'),\
+                ('User-Agent ','Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.2) Gecko/20100101 Firefox/10.0.2'),\
                 ('Referer','http://home.51cto.com/index.php?s=/Index/index/reback/http%253A%252F%252Fwww.51cto.com%252F/')\
         ]
     _data = {
