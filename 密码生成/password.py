@@ -76,3 +76,4 @@ xuetangX = ["http://www.xuetangx.com/",7,12]
 xiaomi = ["http://www.mi.com/",3,12]
 print 'xuetangX : ',getpassword(xuetangX[0],passwordseed,xuetangX[1],xuetangX[2])
 print 'xiaomi : ',getpassword(xiaomi[0],passwordseed,xiaomi[1],xiaomi[2])
+input()
